@@ -1,4 +1,3 @@
 ### Leaders
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
-* [Leader Name](mailto:leader.email@owasp.org)
+* [Anwar Haq](mailto:anwar.haq@owasp.org)
+* [Jehan Zeb](mailto:jehan.zeb@owasp.org)
