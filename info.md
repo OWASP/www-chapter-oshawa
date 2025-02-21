@@ -1,7 +1,6 @@
 ### Oshawa Information
-* Provide Group Information
-
+* Oshawa, ON
 ### Social Links
-* [Meetup](#)
+* [Meetups](https://www.meetup.com/OWASP-Oshawa-Chapter/)
 
 
