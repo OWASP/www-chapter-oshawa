@@ -5,8 +5,8 @@ title: OWASP Oshawa
 tags: upcomingevents-tag pastevents-tag sponsorship-tag
 region: North America
 country: Canada
-meetup-group:
-
+meetup-group: owasp-oshawa-chapter
+postal-code: L1H 7K5
 ---
 ## Welcome to OWASP Oshawa Chapter\!<br/> 
 
