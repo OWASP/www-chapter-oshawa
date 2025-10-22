@@ -1,0 +1,25 @@
+leaders:
+  - name: Anwar Haq
+    email: anwar.haq@owasp.org
+    github: anwar-haq
+  - name: Jehan Zeb
+    email: jehan.zeb@owasp.org
+location:
+  country: Canada
+  country_code: CA
+  region: Ontario
+  city: Oshawa
+  postal_code: L1H 7K5
+  latitude: 43.8975558
+  longitude: -78.8635324
+meetup_group: owasp-oshawa-chapter
+name: OWASP Oshawa
+repositories:
+  - name: www-chapter-oshawa
+    url: https://github.com/OWASP/www-chapter-oshawa
+    description: OWASP Foundation web repository
+tags:
+  - upcomingevents-tag
+  - pastevents-tag
+  - sponsorship-tag
+website: https://owasp.org/www-chapter-oshawa
